@@ -1,0 +1,11 @@
+.footer__contacts input {
+    display: block;
+}
+
+@media (min-width: 600px) {
+
+    .footer__contacts input {
+        display: inline;
+    }
+    
+}

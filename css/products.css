@@ -1,0 +1,13 @@
+#products {
+    color: aqua;
+}
+
+.main-products .product-card__image {
+    width: 50%;
+    margin: auto;
+}
+
+.product-card__h3:hover {
+    color: var(--h2-text-color);
+}
+
