@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --text-color: rgb(57, 5, 5);
+    --light-background-color: #f82764;
+    --dark-background-color: #222222;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    color: var(--text-color);
+}
+
+h3 {
+    color: var(--text-color);
+    width: 50%;
+}
+
+h3:hover {
+    text-decoration: underline;
+}
+
+h3::first-letter {
+    color: var(--light-background-color);
+}
+
+.product-card .product-card__description {
+    color: var(--dark-background-color);
+}
+
+p {
+    color:  var(--light-background-color);
+}
