@@ -1,6 +1,1 @@
-@import url(common.css);
-@import url(controls.css);
-@import url(index-header.css);
-@import url(burger-menu.css);
-@import url(index-products.css);
-@import url(index-footer.css);
+@import url(bootstrap-overrides.css);

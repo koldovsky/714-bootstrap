@@ -1,0 +1,4 @@
+.btn-info {
+    --bs-btn-bg: red;
+    --bs-btn-hover-bg:  rgb(223, 83, 14);
+}
